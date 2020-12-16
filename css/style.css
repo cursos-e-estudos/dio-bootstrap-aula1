@@ -8,12 +8,23 @@
 
 body{
     color: #4b1332;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-
-
 
 .whoWeAre-container {
     background-color: #FCC802;
+}
+
+.parceiras {
+    background-color: #270113;
+}
+
+.parceiras h3 {
+    color: #AFF0B7;
+}
+
+.chifrudo {
+    background-color: #FD2976;
 }
 
 .whoWeAre-container h4 {
@@ -26,6 +37,20 @@ body{
     padding-bottom: 20px;
 }
 
-.parceiras {
-    background-color: #FB074C;
+.nav-link {
+    color:  #FCC802 !important;
+}
+
+.col-lg-4 {
+    margin-top: 30px;
+}
+
+.chifrudo {
+    color: #ffe400;
+    
+}
+
+.chifrudo h2 {
+    margin-bottom: 30px;
+    
 }
