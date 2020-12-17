@@ -14,3 +14,17 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 <br>
 
 ---
+
+<br>
+
+
+<p align="center">
+<b> Visual mobile </b>
+</p>
+<p align="center">
+  <img width="200" src="imgs/screenshot2.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="200" src="imgs/screenshot3.png">
+</p>
+
+
+<br>
